@@ -1,0 +1,17 @@
+.navbar{
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.form {
+    margin: 10px;
+}
+
+.text-center {
+    margin: 2px 0px 10px 0px;
+}
